@@ -16,8 +16,9 @@ WARNING:
 
 # Supported tags and respective `Dockerfile` links
 
--	[`7.4.2`](https://github.com/docker-library/kibana/blob/8533a0adbbcf829e6d069fa033339d9212fb986b/7/Dockerfile)
--	[`6.8.5`](https://github.com/docker-library/kibana/blob/090ae9080dd0bf75597a8f27a314854d06b50cb1/6/Dockerfile)
+**WARNING:** THIS IMAGE *IS NOT SUPPORTED* ON THE `s390x` ARCHITECTURE
+
+[![s390x/kibana build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/s390x/job/kibana.svg?label=s390x/kibana%20%20build%20job)](https://doi-janky.infosiftr.net/job/multiarch/job/s390x/job/kibana/)
 
 # Quick reference
 
